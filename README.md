@@ -1,8 +1,8 @@
-# Task Manager Backend API
+# TaskFlow Backend API
 
 ## Overview
 
-The Task Manager Backend is built using Node.js, Express, and MongoDB. It provides a RESTful API for managing tasks in a Task Management Application. The API supports the following operations:
+The TaskFlow Backend is built using Node.js, Express, and MongoDB. It provides a RESTful API for managing tasks in a Task Management Application. The API supports the following operations:
 
 - **Create tasks** (POST)
 - **Retrieve tasks** (GET)
